@@ -7,7 +7,7 @@ library(dplyr)
 library(tidyr)
 
 # Read the data from a CSV file
-dataset <- read.csv('Student Spending - Dataset.csv')
+dataset <- read.csv('student-spending-dataset-cleaned.csv')
 
 dataset_longer <- pivot_longer(dataset, cols = c(monthly_income, financial_aid, tuition, housing, food, transportation, books_supplies, entertainment, personal_care, technology, health_wellness, miscellaneous), names_to = "Variable", values_to = "Value")
 
