@@ -1,9 +1,9 @@
-### CSC 435 Term Project
+# CSC 435 Term Project
 
 ## Student spending habits 
-# Exploring Student Financial Behaviors 
+### Exploring Student Financial Behaviors 
 
-# Team Members
+### Team Members
 - Lapine, Anthony
 - Haddad, Ayden
 - Gookin, Alexander
